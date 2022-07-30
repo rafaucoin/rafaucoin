@@ -2,5 +2,5 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaucoin&layout=compact&hide=Python)](https://github.com/rafaucoin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaucoin&layout=compact&hide=Python&theme=synthwave)](https://github.com/rafaucoin/github-readme-stats)
 
