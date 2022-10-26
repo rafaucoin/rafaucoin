@@ -10,4 +10,4 @@
  <br>
  <h3>   My contribution graph eaten by the snake: 🐍</h3>
 
- ![snake gif](https://github.com/WISSAL-MN/WISSAL-MN/blob/output/github-contribution-grid-snake.gif)
+ ![snake gif](https://github.com/rafaucoin/rafaucoin/blob/output/github-contribution-grid-snake.gif)
