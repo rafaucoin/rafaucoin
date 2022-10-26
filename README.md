@@ -7,7 +7,4 @@
 <h3 align="left">GitHub Readme Activity Graph:📈</h3>
 
  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rafaucoin&bg_color=141321&color=4c839e&line=f05a0a&point=f5a700&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
- <br>
- <h3>   My contribution graph eaten by the snake: 🐍</h3>
 
- ![snake gif](https://github.com/rafaucoin/rafaucoin/blob/output/github-contribution-grid-snake.gif)
